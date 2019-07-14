@@ -1,0 +1,9 @@
+# Rider idea
+.idea/
+
+# obj and bin
+[Bb]in
+[Oo]bj
+
+# user files
+*.user
