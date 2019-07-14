@@ -1,5 +1,6 @@
 # Rider idea
 .idea/
+*.idea
 
 # obj and bin
 [Bb]in
