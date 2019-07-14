@@ -14,6 +14,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AccessibilityDomain", "Acce
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessibilityDomain", "AccessibilityDomain\AccessibilityDomain\AccessibilityDomain.csproj", "{BD4A911D-2D46-4926-9D4C-E21FA7BE64E4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AccessibilityLevels", "AccessibilityLevels", "{C84CED98-9F0C-4194-853E-04129E348DB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessibilityLevels", "AccessibilityLevels\AccessibilityLevels.csproj", "{494D7D5A-BE76-4F76-9B88-87AB847F60B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +28,7 @@ Global
 		{2E488846-307F-4980-8544-F143DF02C4C2} = {540FB40E-4356-4F03-90A7-D20DA291A2A4}
 		{BBA55E2A-6CAE-4F74-B85B-E4801713A5C1} = {540FB40E-4356-4F03-90A7-D20DA291A2A4}
 		{BD4A911D-2D46-4926-9D4C-E21FA7BE64E4} = {F0CC88F7-4C1E-44C1-9BAA-45AEA4B53706}
+		{494D7D5A-BE76-4F76-9B88-87AB847F60B9} = {C84CED98-9F0C-4194-853E-04129E348DB5}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{9F21A3F1-DD38-46A9-8EB7-1927782FC58A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -42,5 +47,9 @@ Global
 		{BD4A911D-2D46-4926-9D4C-E21FA7BE64E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD4A911D-2D46-4926-9D4C-E21FA7BE64E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD4A911D-2D46-4926-9D4C-E21FA7BE64E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{494D7D5A-BE76-4F76-9B88-87AB847F60B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494D7D5A-BE76-4F76-9B88-87AB847F60B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494D7D5A-BE76-4F76-9B88-87AB847F60B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494D7D5A-BE76-4F76-9B88-87AB847F60B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
